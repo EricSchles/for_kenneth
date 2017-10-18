@@ -1,0 +1,5 @@
+to install jupyter notebook
+
+python -m pip install jupyter
+
+python -m pip install ipython
